@@ -1,11 +1,9 @@
-// Shorthand Property Names özelliği olmadan.
+// Shorthand Property Names özelliği olmadan
 const name = "Jack";
 const surname = "London";
 const authorInfo = {authorName: name, authorSurname: surname};
 
 console.log(authorInfo);
-
-
 
 
 
